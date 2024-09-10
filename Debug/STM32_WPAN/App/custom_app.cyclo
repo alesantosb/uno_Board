@@ -1,0 +1,8 @@
+../STM32_WPAN/App/custom_app.c:94:6:Custom_STM_App_Notification	5
+../STM32_WPAN/App/custom_app.c:186:6:Custom_APP_Notification	3
+../STM32_WPAN/App/custom_app.c:223:6:Custom_APP_Init	1
+../STM32_WPAN/App/custom_app.c:245:13:Custom_Switch_c_Update_Char	2
+../STM32_WPAN/App/custom_app.c:264:6:Custom_Switch_c_Send_Notification	3
+../STM32_WPAN/App/custom_app.c:300:13:Custom_Hrs_m_Update_Char	2
+../STM32_WPAN/App/custom_app.c:319:6:Custom_Hrs_m_Send_Notification	2
+../STM32_WPAN/App/custom_app.c:340:6:P2PS_APP_SW1_Button_Action	1
